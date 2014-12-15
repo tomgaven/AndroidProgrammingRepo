@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Simple1</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
 
+    <!--  MainActivity resources -->
+    <string name="editTextHint">Enter Text</string>
+    <string name="btnGoLabel">Go</string>
+    <string name="btnGoMessage">Go Button Pressed!</string>
 </resources>
