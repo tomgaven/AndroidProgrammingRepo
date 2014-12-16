@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity 1</string>
+
+    <!--  Activity 1 resources -->
+    <string name="editTextHint">Enter Text</string>
+    <string name="btnGoLabel">Start Activity 2</string>
+    <string name="btnGoMessage">Go Button Pressed!</string>
+    
+    
+     <!--  Activity 2 resources -->
+    <string name="activity2Header">Press Button to close down Activity 2</string>  
+    <string name="btnCloseLabel">Close</string> 
+    <string name="activity2_name">Activity 2</string> 
+ 
+</resources>
